@@ -5,7 +5,7 @@ function App() {
         Hassan Raza — Coming Soon $$$$
       </h1>
       <button className="px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg shadow-lg hover:bg-gray-100 transition">
-        Test Tailwind Button
+        Tailwind Button
       </button>
     </div>
   )
